@@ -30,7 +30,7 @@ Cost optimizations:
 1. Review the current pricing model and do a comparison to check ideal sku for the workload.
 2. Leverage AHUB and reservations. 
 3.
-
+4.
 
  Application Specific optimizations:
 1.	Review sending queries as batch vs sequential executions: How to use batching to improve application performance - Azure SQL | Microsoft Docs
