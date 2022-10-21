@@ -1,3 +1,4 @@
+# SQLOptimizationForApplications
 Approaching SQL Optimizations in Application scenarios:
 
 This document provides guidance at a high level to perform a health check to ensure the application and database is functioning as expected to avoid any issues which may lead to application Downtime. 
