@@ -3,7 +3,7 @@ Approaching SQL Optimizations in Application scenarios:
 
 This document provides guidance at a high level to perform a health check to ensure the application and database is functioning as expected to avoid any issues which may lead to application Downtime. 
 
-##Step 1: Understand Customer SQL Landscape and applications. 
+## Step 1: Understand Customer SQL Landscape and applications. 
 
 1. Understand SKU's. Compare vcore vs DTU model 
 2. Review metrics of databases like CPU, memory, storage. 
